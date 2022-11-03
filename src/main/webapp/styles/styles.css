@@ -1,0 +1,30 @@
+.bg-color-main{
+    background-color: #158894;
+}
+
+.text-color-main{
+    color: #158894;
+}
+
+h1 a, h1 a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.font-thick {
+    font-weight: bold;
+}
+
+.font-thicker {
+    font-weight: 900;
+}
+
+p{
+    word-wrap: break-word;
+    text-align: justify;
+}
